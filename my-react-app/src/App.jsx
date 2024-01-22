@@ -4,7 +4,6 @@
 import { Book } from "./components/Book/Book";
 import Object from "./book";
 
-
 export const App = () => {
   return (
     <Book
